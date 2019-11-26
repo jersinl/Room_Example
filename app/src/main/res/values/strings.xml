@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Room_Example</string>
+
+    <!--   Values for Dialog Item  -->
+    <string name="text_hint_name">Name</string>
+    <string name="text_hint_nickName">Nickname</string>
+    <string name="text_hint_type">Type</string>
+    <string name="text_hint_maxPrice">Max. Price</string>
+    <string name="text_hint_minPrice">Min. Price</string>
+    <string name="text_button_save">Guardar</string>
+
+
+
+
+</resources>
